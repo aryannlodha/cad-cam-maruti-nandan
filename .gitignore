@@ -1,0 +1,15 @@
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary / generated files
+*.bak
+*.tmp
+~$*
+
+# Python / notebook cache (if future analysis scripts are added)
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
